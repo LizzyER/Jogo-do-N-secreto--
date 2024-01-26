@@ -4,3 +4,5 @@ Este projeto foi feito durante os cursos de lógica de programação da platafor
 ONE (Oracle Next Education) que é uma parceria entre a Oracle e a Alura.
 
 O código feito por mim, é o código em JavaScript que foi ultilizado para ser aplicado em prática os fundamentos da lógica de programação. 
+
+Para conseguir vizualizar o projeto basta baixar os arquivos e abrir o arquivo index.html :)
